@@ -1,0 +1,6 @@
+[
+  { "title": "Ingeniería de Sistemas", "desc": "Énfasis en desarrollo web, IA y nube. Modalidad presencial.", "tag": "Profesional" },
+  { "title": "Tecnología en Gestión Empresarial", "desc": "Plan de estudios flexible para emprender o escalar negocios.", "tag": "Tecnológico" },
+  { "title": "Técnico en Soporte de TI", "desc": "Certificaciones y prácticas en empresas aliadas.", "tag": "Técnico" },
+  { "title": "Diseño Multimedia", "desc": "Contenido digital, UI/UX y producción audiovisual.", "tag": "Profesional" }
+]
