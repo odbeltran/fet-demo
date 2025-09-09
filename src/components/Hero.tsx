@@ -35,7 +35,7 @@ export default function Hero() {
       <div className="container-xxl absolute inset-0 flex items-center">
         <div className="max-w-2xl text-white space-y-6 fade-up">
           <h1 className="h1">Impulsa tu futuro con una educación de calidad</h1>
-          <p className="p text-white/90">
+          <p className="p text-white">
             Programas técnicos, tecnológicos y profesionales con enfoque práctico,
             innovación y bienestar estudiantil.
           </p>
